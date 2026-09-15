@@ -137,19 +137,55 @@ Check out my portfolio
   <img src="https://img.shields.io/badge/View_My_CV-DC2626?style=for-the-badge&logo=googledrive&logoColor=white" alt="View My CV">
 </a>
 
-📫 Let's Connect
-
-I'm open to connecting with developers, recruiters, and people interested in building software.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/youssef-hussien-41a861342/">LinkedIn</a> •
-  <a href="https://www.facebook.com/youssef.hussien.903516/">Facebook</a> •
-  <a href="https://www.instagram.com/hussienyoussef266?stkn=c2Rud2d2NGllZzJv">Instagram</a> •
-  <a href="https://wa.me/201012483920?text=Hello%20Youssef%2C%20I'm%20interested%20in%20your%20services">WhatsApp</a> •
-  <a href="https://screenshot-perfect-pixel-646.lovable.app/#contact">Portfolio</a>
-</p>
+🤝 Let's Connect
 
 <div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+💼 Professional
+
+<a href="https://www.linkedin.com/in/youssef-hussien-41a861342/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</td>
+<td align="center">
+
+🌐 Portfolio
+
+<a href="https://screenshot-perfect-pixel-646.lovable.app/#contact">
+  <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+</td>
+<td align="center">
+
+💬 WhatsApp
+
+<a href="https://wa.me/201012483920?text=Hello%20Youssef%2C%20I'm%20interested%20in%20your%20services">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<a href="https://www.facebook.com/youssef.hussien.903516/">Facebook</a>
+  •  
+<a href="https://www.instagram.com/hussienyoussef266?stkn=c2Rud2d2NGllZzJv">Instagram</a>
+  •  
+<a href="https://www.linkedin.com/in/youssef-hussien-41a861342/">LinkedIn</a>
+  •  
+<a href="https://screenshot-perfect-pixel-646.lovable.app/#contact">Portfolio</a>
+  •  
+<a href="https://drive.google.com/file/d/1iBeb9EZxB9jAoEWZsv-QuScIisORp5qc/view?usp=sharing">CV</a>
+
+</div>
 
 💻 Building. Learning. Improving. 🚀
 
